@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 
 <p align="center">
-<img src="avatar.png" width="160" style="border-radius:50%">
+<img src=""D:\CV\me2.jpg"" width="160" style="border-radius:50%">
 </p>
 
 <p align="center">
