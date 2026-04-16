@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 
 <p align="center">
-<img src=""D:\CV\me2.jpg"" width="160" style="border-radius:50%">
+<img src="me2.jpg" width="160" style="border-radius:50%">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;UI+Enthusiast;Open+Source+Lover&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer&center=true&width=500&height=50">
 </p>
 
 ---
