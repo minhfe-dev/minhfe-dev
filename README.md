@@ -58,17 +58,19 @@
 </p>
 
 ---
-
 ### 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/minhfe-dev">
+<a href="https://github.com/minhfe-dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</p>
+<a href="https://www.facebook.com/trtienminh811" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="48" />
+</a>
 
+</p>
 ---
 
 ⭐ From [minhfe-dev](https://github.com/minhfe-dev)
